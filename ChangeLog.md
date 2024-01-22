@@ -1,1 +1,2 @@
-### 0.1.0\n- [ ] The Beginning of Collaboration\n\n
+### 0.1.0
+- [ ] The Beginning of Collaboration
