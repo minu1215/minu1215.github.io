@@ -1,8 +1,11 @@
 ### 0.1.0
-- [ ] study html a tag
+- [x] study html a tag
 
 ### 0.2.0
-- [ ] search-console
+- [x] search-console
 
 ### 0.3.0
-- [ ] NAVER searchadvisor
+- [x] NAVER searchadvisor
+
+### 0.5.0
+- [ ] firebase
