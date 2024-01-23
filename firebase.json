@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site" : "minu1215-dev",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
