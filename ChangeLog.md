@@ -8,4 +8,7 @@
 - [x] NAVER searchadvisor
 
 ### 0.5.0
-- [ ] firebase
+- [x] firebase
+
+### 0.6.0
+- [ ] html/css study
