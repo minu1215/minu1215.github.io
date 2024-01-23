@@ -8,4 +8,4 @@
 firebase
 
 # 감사
-https://html5up.net/
+html5up.net | @ajlkn
